@@ -1,0 +1,13 @@
+C:\Users\aandr\source\repos\Lab06\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\aandr\source\repos\Lab06\LINQ\bin\Debug\LINQ.exe
+C:\Users\aandr\source\repos\Lab06\LINQ\bin\Debug\LINQ.pdb
+C:\Users\aandr\source\repos\Lab06\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\aandr\source\repos\Lab06\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+C:\Users\aandr\source\repos\Lab06\LINQ\obj\Debug\LINQ.csproj.GenerateResource.Cache
+C:\Users\aandr\source\repos\Lab06\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\aandr\source\repos\Lab06\LINQ\obj\Debug\LINQ.exe
+C:\Users\aandr\source\repos\Lab06\LINQ\obj\Debug\LINQ.pdb
+C:\Users\aandr\source\repos\Lab06\LINQ\obj\Debug\LINQ.AboutProgramForm.resources
+C:\Users\aandr\source\repos\Lab06\LINQ\obj\Debug\LINQ.LINQForm.resources
+C:\Users\aandr\source\repos\Lab06\LINQ\obj\Debug\LINQ.ResultsForm.resources
+C:\Users\aandr\source\repos\Lab06\LINQ\obj\Debug\LINQ.ComparisonForm.resources

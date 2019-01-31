@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BinaryTree.AboutProgramForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutProgramForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryTree.AVLTree" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgAAAFAgBAgAWEACAAgARAAAAEAIABAACUCACDAQIBA=</HashCode>
+      <FileName>AVLTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryTree.BinaryTreeArray" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgAAAFAgDAAAWgACgAAAAAAAAAAIAAAAAUAgCDAAABE=</HashCode>
+      <FileName>BinaryTreeArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryTree.BinaryTreeForm" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BRAiRAAmIqAAgBigAACDIcgCiiAAAABBAgAAEEAkEBA=</HashCode>
+      <FileName>BinaryTreeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryTree.BinaryTreeP" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgAAAFAgBAgAWEACAAgARAAAAAAIABAACUCACDAQIBA=</HashCode>
+      <FileName>BinaryTreeP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryTree.Diagram" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAACCAACAAAAAAAACAAAACAQAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryTree.FileDotEngine" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>FileDotEngine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BinaryTree.GraphvizImage" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAACgAgAAAAAAQAAAAAIAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GraphvizImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryTree.OperationTime" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAFAABAAEAEAAIAAAAABAAAAAEACAQAAAAAAAA=</HashCode>
+      <FileName>OperationTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryTree.Program" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryTree.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryTree.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BinaryTree.BinSide" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAA=</HashCode>
+      <FileName>AVLTree.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

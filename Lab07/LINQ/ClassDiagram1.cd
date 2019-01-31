@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LINQ.AboutProgramForm">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutProgramForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LINQ.ComparisonForm">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAqZAACAAWAAQCIAAICAgAACAAAAEAECAAAAAEABAAA=</HashCode>
+      <FileName>ComparisonForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LINQ.LINQForm">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cQoIFECAiCAEAzAARACGAAACGAAABAAQAkAQIgAAAgA=</HashCode>
+      <FileName>LINQForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LINQ.LINQMethods">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAEAAABAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LINQMethods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LINQ.Program">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LINQ.ResultsForm">
+    <Position X="2" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cAgAAACQCCACAQAAQACAAAICAAAABAAQAAAQAAAAAgA=</HashCode>
+      <FileName>ResultsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LINQ.Student">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cAAAAACACAAAAQAAAAAAAAAAAAAAAAAQAAAAAAAAAgA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LINQ.Properties.Resources">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LINQ.Properties.Settings">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

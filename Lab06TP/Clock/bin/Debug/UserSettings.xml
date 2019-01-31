@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hour>-32768</Hour>
+  <Minute>-12582848</Minute>
+  <Second>-65536</Second>
+  <Digit>-16777216</Digit>
+  <CForm>-1</CForm>
+  <CDivision>-16777216</CDivision>
+  <CDigitalClock>-16777216</CDigitalClock>
+  <SForm>
+    <Width>210</Width>
+    <Height>228</Height>
+  </SForm>
+  <ClockLenght>90</ClockLenght>
+  <Division>1</Division>
+  <FormStyle>1</FormStyle>
+  <DigitalCl>false</DigitalCl>
+</Settings>

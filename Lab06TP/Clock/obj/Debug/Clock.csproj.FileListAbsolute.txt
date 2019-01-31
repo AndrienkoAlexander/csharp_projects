@@ -1,0 +1,11 @@
+C:\Users\aandr\source\repos\Lab06TP\Clock\bin\Debug\Clock.exe.config
+C:\Users\aandr\source\repos\Lab06TP\Clock\bin\Debug\Clock.exe
+C:\Users\aandr\source\repos\Lab06TP\Clock\bin\Debug\Clock.pdb
+C:\Users\aandr\source\repos\Lab06TP\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\Users\aandr\source\repos\Lab06TP\Clock\obj\Debug\Clock.Clock.resources
+C:\Users\aandr\source\repos\Lab06TP\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\aandr\source\repos\Lab06TP\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+C:\Users\aandr\source\repos\Lab06TP\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\aandr\source\repos\Lab06TP\Clock\obj\Debug\Clock.exe
+C:\Users\aandr\source\repos\Lab06TP\Clock\obj\Debug\Clock.pdb
+C:\Users\aandr\source\repos\Lab06TP\Clock\obj\Debug\Clock.AboutProgram.resources
